@@ -1,4 +1,4 @@
-# To-Do List - Checkpoint 2 - Front-end 2
+# To-Do List - Checkpoint 2 - Front End 2
 
 ## Integrantes
 
